@@ -180,8 +180,6 @@ function [unwrapped_image] = DaugmanRubberSheetModel(img, xc,yc,radiiP,radiiI)
     
     
 
-    %imshow(image)
-   
 
     unwrapped_image = image;
    
